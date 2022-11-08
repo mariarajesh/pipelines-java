@@ -40,4 +40,4 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'HelloWorldJavaBuild'
     publishLocation: 'Container'
-    StoreAsTar: true
+    StoreAsTar: false
